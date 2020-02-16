@@ -13,17 +13,17 @@ I have over 6 years of experience with Soliwdorks across many classes and clubs,
 ![Image](00100dPORTRAIT_00100_BURST20190223162212570_COVER.jpg)
 ![Image](IMG_3094.JPG)
 
-Of course things don't always go as planned, and we had some components break, which I led a redesign of
+Of course things don't always go as planned, and we had some components break, which I led a redesign of afterwards.
+The rear bearing carrier which attached the rear wheels to the driveshaft and suspension arms broke during the endurance event.
 
-The rear bearing carrier which attached the rear wheels to the driveshaft and suspension arms:
 ![Image](20190519_101742.jpg)
 ![Image](IMG_20190519_102107.jpg)
 
 Twice!
 
 ![Image](IMG_20190519_131546.jpg)
-Both sides had the same issue, with the lower mount suffering from way too much bearing stress.
 
+Both sides had the same issue, with the lower mount suffering from way too much bearing stress.
 So I redesigned the rear suspension to avoid such concentrated loads:
 
 ![Image](image 2.png)
@@ -44,8 +44,6 @@ You can see the rest of our photo albums here:
 
 In the future, as We move to a four-wheel-drive system, we are designing and building our own drivetrain components or the first time, and I have created an initial version of a differential which we would use to drive the front wheels:
 ![Image](Untitled6.JPG)
-
-
 
 ### Markdown
 
