@@ -15,15 +15,16 @@ I have over 6 years of experience with Soliwdorks across many classes and clubs,
 
 Of course things don't always go as planned, and we had some components break, which I led a redesign of
 
-The part which broke:
+The rear bearing carrier which attached the rear wheels to the driveshaft and suspension arms:
 ![Image](20190519_101742.jpg)
 ![Image](IMG_20190519_102107.jpg)
 
 Twice!
 
 ![Image](IMG_20190519_131546.jpg)
+Both sides had the same issue, with the lower mount suffering from way too much bearing stress.
 
-So I redesigned the rear suspension to avoid such concentrated loads,
+So I redesigned the rear suspension to avoid such concentrated loads:
 
 ![Image](image 2.png)
 ![Image](v1 8-17-19.JPG)
