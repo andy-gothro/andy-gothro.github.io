@@ -3,10 +3,10 @@
 I am a mechanical engineering student at Gonzaga University, and here is a collection of my work in my clubs and classes.
 
 ### Here are some pictures of the work I have done as of the Baja club, mostly steering and suspension components as well as the car at the competition in 2019:
+![Image](Picture1.png)
+![Image](Picture2.png)
 ![Image](IMG_20190223_165628.jpg)
 ![Image](00100dPORTRAIT_00100_BURST20190223162212570_COVER.jpg)
-![Image](Picture1)
-![Image](Picture2)
 ![Image](IMG_3094.JPG)
 
 I am the technical president of Gonzaga's SAE Baja team, leading the design, manufacturing and assembly of our off-road buggy each year.
