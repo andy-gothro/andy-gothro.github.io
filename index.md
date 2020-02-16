@@ -21,7 +21,7 @@ The part which broke:
 
 Twice!
 
-![Image](IMG_20190519_131546.jpg)
+![Image](IMG_20190519_131546.JPG)
 
 So I redesigned the rear suspension to avoid such concentrated loads,
 
@@ -29,7 +29,7 @@ So I redesigned the rear suspension to avoid such concentrated loads,
 
 And I ran a FE analysis on the part and it held up!
 
-![Image](image 1.png)
+![Image](image 1.PNG)
 
 I am the technical president of Gonzaga's SAE Baja team, leading the design, manufacturing and assembly of our off-road buggy each year.
 You can see the rest of our photo albums here:
