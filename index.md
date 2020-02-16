@@ -4,7 +4,11 @@ I am a mechanical engineering student at Gonzaga University, and here is a colle
 
 [test file](https://photos.app.goo.gl/rMbcoTfAjeRhxztj9)
 
-You can use the [editor on GitHub](https://github.com/andy-gothro/andy-gothro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am the technical president of Gonzaga's SAE Baja team, leading the design, manufacturing and assembly of our off-road buggy each year.
+Our photo albums are here:
+[19-20 academic year](https://photos.app.goo.gl/GVKg7iayb1dhtsLK7)
+[18-19 academic year](https://photos.app.goo.gl/v7NS6NghzjfBwRsY9)
+[17-18 academic year](https://photos.app.goo.gl/PrlAercuPOIZDoWB3)
 
 
 ### Markdown
