@@ -25,6 +25,7 @@ Twice!
 
 So I redesigned the rear suspension to avoid such concentrated loads,
 
+![Image](image 2.png)
 ![Image](v1 8-17-19.JPG)
 
 And I ran a FE analysis on the part and it held up!
