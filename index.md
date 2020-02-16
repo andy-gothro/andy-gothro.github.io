@@ -6,8 +6,11 @@ I am a mechanical engineering student at Gonzaga University, and here is a colle
 
 I am the technical president of Gonzaga's SAE Baja team, leading the design, manufacturing and assembly of our off-road buggy each year.
 Our photo albums are here:
+
 [19-20 academic year](https://photos.app.goo.gl/GVKg7iayb1dhtsLK7)
+
 [18-19 academic year](https://photos.app.goo.gl/v7NS6NghzjfBwRsY9)
+
 [17-18 academic year](https://photos.app.goo.gl/PrlAercuPOIZDoWB3)
 
 
