@@ -2,7 +2,7 @@
 
 I am a mechanical engineering student at Gonzaga University, and here is a collection of my work in my clubs and classes.
 
-![Image](andy-gothro.github.io/Untitled6.JPG)
+![Image](Untitled6.JPG)
 
 I am the technical president of Gonzaga's SAE Baja team, leading the design, manufacturing and assembly of our off-road buggy each year.
 Our photo albums are here:
