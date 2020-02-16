@@ -1,8 +1,11 @@
-## Welcome to my web portfolio!
+### Welcome to my web portfolio!
 
-I am a mechanical engineering student at Gonzaga University, and here is a collection of my work in my clubs and classes.
+About me:
 
-### Here are some pictures of the work I have done as of the Baja club, mostly steering and suspension components I worked on as well as the car at the competition in 2019:
+I am a mechanical engineering student at Gonzaga University, and this is a collection of my work in my clubs and classes.
+I have over 6 years of experience with Soliwdorks across many classes and clubs, as well as Matlab from several classes at Gonzaga.
+
+## Here are some pictures of the work I have done as of the Baja club, mostly steering and suspension components I worked on as well as the car at the competition in 2019:
 
 ![Image](Picture2.png)
 ![Image](Picture1.png)
@@ -22,11 +25,11 @@ Twice!
 
 So I redesigned the rear suspension to avoid such concentrated loads,
 
-![Image](v1 (8-17-19).JPG)
+![Image](v1 8-17-19.JPG)
 
 And I ran a FE analysis on the part and it held up!
 
-![Image](image (1).png)
+![Image](image 1.png)
 
 I am the technical president of Gonzaga's SAE Baja team, leading the design, manufacturing and assembly of our off-road buggy each year.
 You can see the rest of our photo albums here:
