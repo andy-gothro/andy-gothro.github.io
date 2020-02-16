@@ -45,6 +45,12 @@ You can see the rest of our photo albums here:
 In the future, as We move to a four-wheel-drive system, we are designing and building our own drivetrain components or the first time, and I have created an initial version of a differential which we would use to drive the front wheels:
 ![Image](Untitled6.JPG)
 
+## My Matlab experience
+
+At Gonzaga university, I've learned basic Matlab skills, and the biggest project I've done was a program to model sound levels, seat placement, and pricing for theaters of any size. The program I developed for this also produces 3d visualizations of the results.
+![image](matlab acoustic project screenshot.PNG)
+![Video](curved_Trim.mp4)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
