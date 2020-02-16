@@ -1,4 +1,4 @@
-## Welcome to My web portfolio!
+## Welcome to my web portfolio!
 
 I am a mechanical engineering student at Gonzaga University, and here is a collection of my work in my clubs and classes.
 
