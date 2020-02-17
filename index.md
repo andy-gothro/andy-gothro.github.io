@@ -1,7 +1,7 @@
 # andy-gothro.github.io
 ## First off, some stuff about me
 
-I am a mechanical engineering student at Gonzaga University, and this is a collection of my work in my clubs and classes. I have over 6 years of experience with Soliwdorks across many classes and clubs, as well as Matlab from several classes at Gonzaga. I am the technical president of Gonzaga's Baja SAE team, and Integration/Design lead of the ASME Rocketry club.
+I am a mechanical engineering student at Gonzaga University, and this is a collection of my work in my clubs and classes. I have over 6 years of experience with Solidworks across many classes and clubs, as well as Matlab from several classes at Gonzaga. I am the technical president of Gonzaga's Baja SAE team, and Integration/Design lead of the ASME Rocketry club.
 
 ## Here are some pictures of the work I have done as of the Baja club, mostly steering and suspension components I worked on as well as the car at the competition in 2019:
 
