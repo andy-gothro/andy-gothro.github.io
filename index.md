@@ -1,4 +1,4 @@
-# Andy Gothro's web portfolio!
+# andy-gothro.github.io
 ## First off, some stuff about me
 
 I am a mechanical engineering student at Gonzaga University, and this is a collection of my work in my clubs and classes. I have over 6 years of experience with Soliwdorks across many classes and clubs, as well as Matlab from several classes at Gonzaga. I am the technical president of Gonzaga's Baja SAE team, and Integration/Design lead of the ASME Rocketry club.
@@ -47,6 +47,12 @@ In the future, as We move to a four-wheel-drive system, we are designing and bui
 
 ## My ASME Rocketry work
 
+As Integration lead, I mainly make sure that the motor, avionics, and recovery systems work together properly. I use an open-source rocket construction tool, Openrocket, to determine weight balance, stability, and maximum altitude based on the components we use. 
+
+![Image](Annotation 2020-02-16 165700.png)
+[To follow our progress, our instagram is here](https://www.instagram.com/gonzagarocketry/)
+
+## My 3d-printing experience
 
 
 
