@@ -33,6 +33,10 @@ And I ran a FE analysis on the part and it held up!
 
 ![Image](image 1.png)
 
+In the future, as We move to a four-wheel-drive system, we are designing and building our own drivetrain components or the first time, and I have created an initial version of a differential which we would use to drive the front wheels:
+![Image](Untitled6.JPG)
+![Image](Untitled Project.jpg)
+
 You can see the rest of our photo albums here:
 
 [19-20 academic year](https://photos.app.goo.gl/GVKg7iayb1dhtsLK7)
@@ -40,10 +44,7 @@ You can see the rest of our photo albums here:
 [18-19 academic year](https://photos.app.goo.gl/v7NS6NghzjfBwRsY9)
 
 [17-18 academic year](https://photos.app.goo.gl/PrlAercuPOIZDoWB3)
-
-In the future, as We move to a four-wheel-drive system, we are designing and building our own drivetrain components or the first time, and I have created an initial version of a differential which we would use to drive the front wheels:
-![Image](Untitled6.JPG)
-![Image](Untitled Project.jpg)
+[Or our instagram](https://www.instagram.com/gubajasae/)
 
 ## My ASME Rocketry work
 
@@ -54,7 +55,11 @@ As Integration lead, I mainly make sure that the motor, avionics, and recovery s
 
 ## My 3d-printing experience
 
+I have been working with 3d-printers for 6 years, and I am familiar with design specifically for additive manufacturing. I own my own 3d-printer which enables me to print functional parts and parts for fun. I am a big fan of rapid prototyping and iterative design
 
+![Image](IMG_20190621_174026.jpg)
+![Image](IMG_20190223_151350.jpg)
+![Image](IMG_20190414_145545_423.jpg)
 
 ## My Matlab experience
 
