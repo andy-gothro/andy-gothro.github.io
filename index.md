@@ -1,13 +1,13 @@
-# Welcome to my web portfolio!
+# Andy Gothro's web portfolio!
+## First off, some stuff about me
 
-About me:
-
-I am a mechanical engineering student at Gonzaga University, and this is a collection of my work in my clubs and classes.
-I have over 6 years of experience with Soliwdorks across many classes and clubs, as well as Matlab from several classes at Gonzaga.
+I am a mechanical engineering student at Gonzaga University, and this is a collection of my work in my clubs and classes. I have over 6 years of experience with Soliwdorks across many classes and clubs, as well as Matlab from several classes at Gonzaga. I am the technical president of Gonzaga's Baja SAE team, and Integration/Design lead of the ASME Rocketry club.
 
 ## Here are some pictures of the work I have done as of the Baja club, mostly steering and suspension components I worked on as well as the car at the competition in 2019:
 
+My main project last year was the front steering knuckle, which had failed in previous years.
 ![Image](Picture2.png)
+![Image](knuckle drawing2.png)
 ![Image](Picture1.png)
 ![Image](IMG_20190223_165628.jpg)
 ![Image](00100dPORTRAIT_00100_BURST20190223162212570_COVER.jpg)
@@ -33,7 +33,6 @@ And I ran a FE analysis on the part and it held up!
 
 ![Image](image 1.png)
 
-I am the technical president of Gonzaga's SAE Baja team, leading the design, manufacturing and assembly of our off-road buggy each year.
 You can see the rest of our photo albums here:
 
 [19-20 academic year](https://photos.app.goo.gl/GVKg7iayb1dhtsLK7)
@@ -45,6 +44,11 @@ You can see the rest of our photo albums here:
 In the future, as We move to a four-wheel-drive system, we are designing and building our own drivetrain components or the first time, and I have created an initial version of a differential which we would use to drive the front wheels:
 ![Image](Untitled6.JPG)
 ![Image](Untitled Project.jpg)
+
+## My ASME Rocketry work
+
+
+
 
 ## My Matlab experience
 
