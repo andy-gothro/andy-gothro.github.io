@@ -23,21 +23,20 @@ Twice!
 
 ![Image](IMG_20190519_131546.jpg)
 
-Both sides had the same issue, with the lower mount suffering from way too much bearing stress.
-So I redesigned the rear suspension to avoid such concentrated loads:
+Both sides suffered the same issue, with the lower mounting point failing from the stress. I kept this in mind when redesigning the rear suspension from the ground up to avoid such concentrated loads.
 
 ![Image](image 2.png)
 ![Image](v1 8-17-19.JPG)
 
-And I ran a FE analysis on the part and it held up!
+I then ran a FE analysis on the part and it held up!
 
 ![Image](image 1.png)
 
-In the future, as We move to a four-wheel-drive system, we are designing and building our own drivetrain components or the first time, and I have created an initial version of a differential which we would use to drive the front wheels:
+In the future, as We move to a four-wheel-drive system, I am leading the design process and implementation of our own drivetrain components for the first time. I have created an initial version of a differential which we would use to drive the front wheels:
 ![Image](Untitled6.JPG)
 ![Image](Untitled Project.jpg)
 
-You can see the rest of our photo albums here:
+You can see the rest of the team's photo albums here:
 
 [19-20 academic year](https://photos.app.goo.gl/GVKg7iayb1dhtsLK7)
 
