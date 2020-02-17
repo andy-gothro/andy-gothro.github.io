@@ -49,7 +49,7 @@ In the future, as We move to a four-wheel-drive system, we are designing and bui
 
 At Gonzaga university, I've learned basic Matlab skills, and the biggest project I've done was a program to model sound levels, seat placement, and pricing for theaters of any size. The program I developed for this also produces 3d visualizations of the results.
 ![image](matlab acoustic project screenshot.PNG)
-![Video](curved_Trim.mp4)
+![Image](giphy.gif)
 
 ### Markdown
 
