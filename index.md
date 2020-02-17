@@ -44,6 +44,7 @@ You can see the rest of our photo albums here:
 
 In the future, as We move to a four-wheel-drive system, we are designing and building our own drivetrain components or the first time, and I have created an initial version of a differential which we would use to drive the front wheels:
 ![Image](Untitled6.JPG)
+![Image](Untitled Project.jpg)
 
 ## My Matlab experience
 
