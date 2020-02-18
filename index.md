@@ -7,7 +7,7 @@ I am a Junior Mechanical Engineering student at Gonzaga University, and this is 
 
 ### My main project last year was the front steering knuckle I redesigned, which had failed in previous years.
 ![Image](Picture2.png)
-![Image](knuckle drawing2.png)
+![Image](knuckle drawing2.PNG)
 ![Image](Picture1.png)
 ![Image](IMG_20190223_165628.jpg)
 ![Image](00100dPORTRAIT_00100_BURST20190223162212570_COVER.jpg)
