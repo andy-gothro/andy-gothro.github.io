@@ -3,7 +3,7 @@
 
 I am a Junior Mechanical Engineering student at Gonzaga University, and this is an overview of my work in clubs, classes, and internships. I have over 6 years of experience with Solidworks across many classes and clubs, as well as Matlab from several classes at Gonzaga. I am the Technical President of Gonzaga's Baja SAE team, and Integration/Design Lead of the ASME Rocketry club.
 
-You can reach me at [my email, andrew.gothro@comcast.net](andrew.gothro@comcast.net) or my [Linkedin](https://www.linkedin.com/in/andrew-gothro-58324415b/)
+You can reach me at [my email](mailto:andrew.gothro@comcast.net) or my [Linkedin](https://www.linkedin.com/in/andrew-gothro-58324415b/)
 
 ## Below are some pictures and renders of the work I have done as member of of the Baja club.
 
