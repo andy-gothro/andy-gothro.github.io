@@ -2,6 +2,18 @@
 layout: default
 title: 3D-Printing
 ---
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 <div class="blurb">
 	<h1>3D-Printing</h1>
 	<h2>My 3D-Printing experience</h2>
