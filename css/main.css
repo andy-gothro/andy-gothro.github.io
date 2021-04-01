@@ -36,12 +36,12 @@ p {
 
 footer {
     border-top: 1px solid #ffffff;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 3em;
+    font-size: 2em;
 }
 
 ul.posts li {
